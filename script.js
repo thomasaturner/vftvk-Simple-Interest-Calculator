@@ -12,7 +12,6 @@ function compute()
         
         return
     }else{
-        // Display the text with the calculated values
         var inr = "If you deposit <mark>" +principal+",</mark><br>";
         var ra = "at an interest rate of <mark>"+rate+" %,</mark><br>";
         var am="You will receive an amount of <mark>" +interest+ ",</mark><br>"
